@@ -105,7 +105,7 @@ Jenkins Installation is Successful. You can now starting using the Jenkins
 Wait for the Jenkins to be restarted.
 
 
-## Docker Slave Configuration
+## Docker agent Configuration
 
 Run the below command to Install Docker
 
