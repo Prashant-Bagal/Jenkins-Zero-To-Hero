@@ -22,7 +22,7 @@ Install Jenkins, configure Docker as agent, set up cicd, deploy applications to 
 
 ### Install Jenkins.
 
-Pre-Requisites:
+Pre-Requisites: As Jenkins is a java based application so it need java-jdk to run.
  - Java (JDK)
 
 ### Run the below commands to install Java and Jenkins
